@@ -1,7 +1,7 @@
 name: my_sports_model
 description: A new Flutter project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/daddowzoubair/my_new_package
 
 environment:
   sdk: '>=3.1.2 <4.0.0'
